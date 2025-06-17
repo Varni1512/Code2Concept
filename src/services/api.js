@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://code2-concept1.vercel.app/api';
 
 export const analyzeProblem = async (question) => {
   try {
